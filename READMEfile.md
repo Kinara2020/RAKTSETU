@@ -33,3 +33,9 @@ build/app/outputs/flutter-apk/app-release.apk
 🎓 Conclusion
 
 RaktSetu demonstrates practical implementation of DBMS concepts through a real-world application for efficient blood donation and request management.
+
+<img width="1080" height="2400" alt="1000176267" src="https://github.com/user-attachments/assets/2503e005-d641-47f2-bf29-6ea076cdac7c" />
+<img width="1080" height="2400" alt="1000176266" src="https://github.com/user-attachments/assets/fb3c8f54-353b-41a3-b689-05eca79acadc" />
+<img width="1080" height="2400" alt="1000176265" src="https://github.com/user-attachments/assets/6d43fe00-97bc-46dc-b1e7-8b18f2f0ba14" />
+<img width="1080" height="2400" alt="1000176264" src="https://github.com/user-attachments/assets/61c53571-9297-4c66-adc7-e95e52ffa7ef" />
+
